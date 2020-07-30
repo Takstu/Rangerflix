@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Aberturas",
+      "link": "https://www.youtube.com/results?sp=mAEB&search_query=all+power+rangers+oppenings",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aberturas das temporadas de Power Rangers",
+        "url": "https://www.youtube.com/results?sp=mAEB&search_query=all+power+rangers+oppenings"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Todas as aberturas de Power Rangers",
+          "url": "https://youtu.be/Cr_2Qs_gPr0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Mighty Morphin Power Rangers",
+          "url": "https://youtu.be/l-u_QDcmOv0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "ZEO Power Rangers",
+          "url": "https://youtu.be/PIYFboJ5XIQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Turbo Power Rangers",
+          "url": "https://youtu.be/_s98KJd95pc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "In Space Power Rangers",
+          "url": "https://youtu.be/Dv7Oeh2ChkM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lost Galaxy Power Rangers",
+          "url": "https://youtu.be/rOSVV9OgwBk"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lightspeed Rescue Power Rangers",
+          "url": "https://youtu.be/rdpnsWMh80U"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Time Force Power Rangers",
+          "url": "https://youtu.be/OBNuPyjUU3o"
         }        
       ]
     },
